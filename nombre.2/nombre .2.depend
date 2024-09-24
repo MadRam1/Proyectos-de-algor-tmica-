@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726608492 source:c:\users\usuario\desktop\insoft\nombre.2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
